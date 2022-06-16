@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_usuarios_comisiones,access_usuarios_comisiones,model_usuarios_comisiones,base.group_user,1,1,1,1
+access_print_payment_summary,access_print_payment_summary,model_print_payment_summary,base.group_user,1,1,1,1

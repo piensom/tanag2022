@@ -1,0 +1,339 @@
+id,name,code,state_id:id
+res_address_town_101,Guatemala,101,base.state_gt_gua
+res_address_town_102,Santa Catarina Pinula,102,base.state_gt_gua
+res_address_town_103,San José Pinula,103,base.state_gt_gua
+res_address_town_104,San José del Golfo,104,base.state_gt_gua
+res_address_town_105,Palencia,105,base.state_gt_gua
+res_address_town_106,Chinautla,106,base.state_gt_gua
+res_address_town_107,San Pedro Ayampuc,107,base.state_gt_gua
+res_address_town_108,Mixco,108,base.state_gt_gua
+res_address_town_109,San Pedro Sacatepéquez,109,base.state_gt_gua
+res_address_town_110,San Juan Sacatepéquez,110,base.state_gt_gua
+res_address_town_111,San Raymundo,111,base.state_gt_gua
+res_address_town_112,Chuarrancho,112,base.state_gt_gua
+res_address_town_113,Fraijanes,113,base.state_gt_gua
+res_address_town_114,Amatitlán,114,base.state_gt_gua
+res_address_town_115,Villa Nueva,115,base.state_gt_gua
+res_address_town_116,Villa Canales,116,base.state_gt_gua
+res_address_town_117,Petapa,117,base.state_gt_gua
+res_address_town_118,Guastatoya,201,base.state_gt_epr
+res_address_town_119,Morazán,202,base.state_gt_epr
+res_address_town_120,San Agustín Acasaguastlán,203,base.state_gt_epr
+res_address_town_121,San Cristóbal Acasaguastlán,204,base.state_gt_epr
+res_address_town_122,El Jícaro,205,base.state_gt_epr
+res_address_town_123,Sansare,206,base.state_gt_epr
+res_address_town_124,Sanarate,207,base.state_gt_epr
+res_address_town_125,San Antonio la Paz,208,base.state_gt_epr
+res_address_town_126,Antigua Guatemala,301,base.state_gt_sac
+res_address_town_127,Jocotenango,302,base.state_gt_sac
+res_address_town_128,Pastores,303,base.state_gt_sac
+res_address_town_129,Sumpango,304,base.state_gt_sac
+res_address_town_130,Santo Domingo Xenacoj,305,base.state_gt_sac
+res_address_town_131,Santiago Sacatepéquez,306,base.state_gt_sac
+res_address_town_132,San Bartolomé Milpas Altas,307,base.state_gt_sac
+res_address_town_133,San Lucas Sacatepéquez,308,base.state_gt_sac
+res_address_town_134,Santa Lucía Milpas Altas,309,base.state_gt_sac
+res_address_town_135,Magdalena Milpas Altas,310,base.state_gt_sac
+res_address_town_136,Santa María de Jesús,311,base.state_gt_sac
+res_address_town_137,Ciudad Vieja,312,base.state_gt_sac
+res_address_town_138,San Miguel Dueñas,313,base.state_gt_sac
+res_address_town_139,Alotenango,314,base.state_gt_sac
+res_address_town_140,San Antonio Aguas Calientes,315,base.state_gt_sac
+res_address_town_141,Santa Catarina Barahona,316,base.state_gt_sac
+res_address_town_142,Chimaltenango,401,base.state_gt_cmt
+res_address_town_143,San José Poaquil,402,base.state_gt_cmt
+res_address_town_144,San Martín Jilotepeque,403,base.state_gt_cmt
+res_address_town_145,Comalapa,404,base.state_gt_cmt
+res_address_town_146,Santa Apolonia,405,base.state_gt_cmt
+res_address_town_147,Tecpán Guatemala,406,base.state_gt_cmt
+res_address_town_148,Patzún,407,base.state_gt_cmt
+res_address_town_149,Pochuta,408,base.state_gt_cmt
+res_address_town_150,Patzicía,409,base.state_gt_cmt
+res_address_town_151,Santa Cruz Balanyá,410,base.state_gt_cmt
+res_address_town_152,Acatenango,411,base.state_gt_cmt
+res_address_town_153,Yepocapa,412,base.state_gt_cmt
+res_address_town_154,San Andrés Itzapa,413,base.state_gt_cmt
+res_address_town_155,Parramos,414,base.state_gt_cmt
+res_address_town_156,Zaragoza,415,base.state_gt_cmt
+res_address_town_157,El Tejar,416,base.state_gt_cmt
+res_address_town_158,Escuintla,501,base.state_gt_esc
+res_address_town_159,Santa Lucía Cotzumalguapa,502,base.state_gt_esc
+res_address_town_160,La Democracia,503,base.state_gt_esc
+res_address_town_161,Siquinalá,504,base.state_gt_esc
+res_address_town_162,Masagua,505,base.state_gt_esc
+res_address_town_163,Tiquisate,506,base.state_gt_esc
+res_address_town_164,La Gomera,507,base.state_gt_esc
+res_address_town_165,Guanagazapa,508,base.state_gt_esc
+res_address_town_166,San José,509,base.state_gt_esc
+res_address_town_167,Iztapa,510,base.state_gt_esc
+res_address_town_168,Palín,511,base.state_gt_esc
+res_address_town_169,San Vicente Pacaya,512,base.state_gt_esc
+res_address_town_170,Nueva Concepción,513,base.state_gt_esc
+res_address_town_171,Cuilapa,601,base.state_gt_sro
+res_address_town_172,Barberena,602,base.state_gt_sro
+res_address_town_173,Santa Rosa de Lima,603,base.state_gt_sro
+res_address_town_174,Casillas,604,base.state_gt_sro
+res_address_town_175,San Rafael las Flores,605,base.state_gt_sro
+res_address_town_176,Oratorio,606,base.state_gt_sro
+res_address_town_177,San Juan Tecuaco,607,base.state_gt_sro
+res_address_town_178,Chiquimulilla,608,base.state_gt_sro
+res_address_town_179,Taxisco,609,base.state_gt_sro
+res_address_town_180,Santa María Ixhuatán,610,base.state_gt_sro
+res_address_town_181,Guazacapán,611,base.state_gt_sro
+res_address_town_182,Santa Cruz Naranjo,612,base.state_gt_sro
+res_address_town_183,Pueblo Nuevo Viñas,613,base.state_gt_sro
+res_address_town_184,Nueva Santa Rosa,614,base.state_gt_sro
+res_address_town_185,Sololá,701,base.state_gt_sol
+res_address_town_186,San José Chacayá,702,base.state_gt_sol
+res_address_town_187,Santa María Visitación,703,base.state_gt_sol
+res_address_town_188,Santa Lucía Utatlán,704,base.state_gt_sol
+res_address_town_189,Nahualá,705,base.state_gt_sol
+res_address_town_190,Santa Catarina Ixtahuacán,706,base.state_gt_sol
+res_address_town_191,Santa Clara la Laguna,707,base.state_gt_sol
+res_address_town_192,Concepción,708,base.state_gt_sol
+res_address_town_193,San Andrés Semetabaj,709,base.state_gt_sol
+res_address_town_194,Panajachel,710,base.state_gt_sol
+res_address_town_195,Santa Catarina Palopó,711,base.state_gt_sol
+res_address_town_196,San Antonio Palopó,712,base.state_gt_sol
+res_address_town_197,San Lucas Tolimán,713,base.state_gt_sol
+res_address_town_198,Santa Cruz la Laguna,714,base.state_gt_sol
+res_address_town_199,San Pablo la Laguna,715,base.state_gt_sol
+res_address_town_200,San Marcos la Laguna,716,base.state_gt_sol
+res_address_town_201,San Juan la Laguna,717,base.state_gt_sol
+res_address_town_202,San Pedro la Laguna,718,base.state_gt_sol
+res_address_town_203,Santiago Atitlán,719,base.state_gt_sol
+res_address_town_204,Totonicapán,801,base.state_gt_tot
+res_address_town_205,San Cristóbal Totonicapán,802,base.state_gt_tot
+res_address_town_206,San Francisco el Alto,803,base.state_gt_tot
+res_address_town_207,San Andrés Xecul,804,base.state_gt_tot
+res_address_town_208,Momostenango,805,base.state_gt_tot
+res_address_town_209,Santa María Chiquimula,806,base.state_gt_tot
+res_address_town_210,Santa Lucía la Reforma,807,base.state_gt_tot
+res_address_town_211,San Bartolo,808,base.state_gt_tot
+res_address_town_212,Quetzaltenango,901,base.state_gt_que
+res_address_town_213,Salcajá,902,base.state_gt_que
+res_address_town_214,Olintepeque,903,base.state_gt_que
+res_address_town_215,San Carlos Sija,904,base.state_gt_que
+res_address_town_216,Sibilia,905,base.state_gt_que
+res_address_town_217,Cabricán,906,base.state_gt_que
+res_address_town_218,Cajolá,907,base.state_gt_que
+res_address_town_219,San Miguel Siguilá,908,base.state_gt_que
+res_address_town_220,Ostuncalco,909,base.state_gt_que
+res_address_town_221,San Mateo,910,base.state_gt_que
+res_address_town_222,Concepción Chiquirichapa,911,base.state_gt_que
+res_address_town_223,San Martín Sacatepéquez,912,base.state_gt_que
+res_address_town_224,Almolonga,913,base.state_gt_que
+res_address_town_225,Cantel,914,base.state_gt_que
+res_address_town_226,Huitán,915,base.state_gt_que
+res_address_town_227,Zunil,916,base.state_gt_que
+res_address_town_228,Colomba,917,base.state_gt_que
+res_address_town_229,San Francisco la Unión,918,base.state_gt_que
+res_address_town_230,El Palmar,919,base.state_gt_que
+res_address_town_231,Coatepeque,920,base.state_gt_que
+res_address_town_232,Génova,921,base.state_gt_que
+res_address_town_233,Flores Costa Cuca,922,base.state_gt_que
+res_address_town_234,La Esperanza,923,base.state_gt_que
+res_address_town_235,Palestina de los Altos,924,base.state_gt_que
+res_address_town_236,Mazatenango,1001,base.state_gt_suc
+res_address_town_237,Cuyotenango,1002,base.state_gt_suc
+res_address_town_238,San Francisco Zapotitlán,1003,base.state_gt_suc
+res_address_town_239,San Bernardino,1004,base.state_gt_suc
+res_address_town_240,San José el Idolo,1005,base.state_gt_suc
+res_address_town_241,Santo Domingo Suchitepéquez,1006,base.state_gt_suc
+res_address_town_242,San Lorenzo,1007,base.state_gt_suc
+res_address_town_243,Samayac,1008,base.state_gt_suc
+res_address_town_244,San Pablo Jocopilas,1009,base.state_gt_suc
+res_address_town_245,San Antonio Suchitepéquez,1010,base.state_gt_suc
+res_address_town_246,San Miguel Panán,1011,base.state_gt_suc
+res_address_town_247,San Gabriel,1012,base.state_gt_suc
+res_address_town_248,Chicacao,1013,base.state_gt_suc
+res_address_town_249,Patulul,1014,base.state_gt_suc
+res_address_town_250,Santa Bárbara,1015,base.state_gt_suc
+res_address_town_251,San Juan Bautista,1016,base.state_gt_suc
+res_address_town_252,Santo Tomás la Unión,1017,base.state_gt_suc
+res_address_town_253,Zunilito,1018,base.state_gt_suc
+res_address_town_254,Pueblo Nuevo,1019,base.state_gt_suc
+res_address_town_255,Río Bravo,1020,base.state_gt_suc
+res_address_town_256,San José La Máquina,1021,base.state_gt_suc
+res_address_town_257,Retalhuleu,1101,base.state_gt_ret
+res_address_town_258,San Sebastián,1102,base.state_gt_ret
+res_address_town_259,Santa Cruz Muluá,1103,base.state_gt_ret
+res_address_town_260,San Martín Zapotitlán,1104,base.state_gt_ret
+res_address_town_261,San Felipe,1105,base.state_gt_ret
+res_address_town_262,San Andrés Villa Seca,1106,base.state_gt_ret
+res_address_town_263,Champerico,1107,base.state_gt_ret
+res_address_town_264,Nuevo San Carlos,1108,base.state_gt_ret
+res_address_town_265,El Asintal,1109,base.state_gt_ret
+res_address_town_266,San Marcos,1201,base.state_gt_sma
+res_address_town_267,San Pedro Sacatepéquez,1202,base.state_gt_sma
+res_address_town_268,San Antonio Sacatepéquez,1203,base.state_gt_sma
+res_address_town_269,Comitancillo,1204,base.state_gt_sma
+res_address_town_270,San Miguel Ixtahuacán,1205,base.state_gt_sma
+res_address_town_271,Concepción Tutuapa,1206,base.state_gt_sma
+res_address_town_272,Tacaná,1207,base.state_gt_sma
+res_address_town_273,Sibinal,1208,base.state_gt_sma
+res_address_town_274,Tajumulco,1209,base.state_gt_sma
+res_address_town_275,Tejutla,1210,base.state_gt_sma
+res_address_town_276,San Rafael Pié de la Cuesta,1211,base.state_gt_sma
+res_address_town_277,Nuevo Progreso,1212,base.state_gt_sma
+res_address_town_278,El Tumbador,1213,base.state_gt_sma
+res_address_town_279,El Rodeo,1214,base.state_gt_sma
+res_address_town_280,Malacatán,1215,base.state_gt_sma
+res_address_town_281,Catarina,1216,base.state_gt_sma
+res_address_town_282,Ayutla,1217,base.state_gt_sma
+res_address_town_283,Ocós,1218,base.state_gt_sma
+res_address_town_284,San Pablo,1219,base.state_gt_sma
+res_address_town_285,El Quetzal,1220,base.state_gt_sma
+res_address_town_286,La Reforma,1221,base.state_gt_sma
+res_address_town_287,Pajapita,1222,base.state_gt_sma
+res_address_town_288,Ixchiguán,1223,base.state_gt_sma
+res_address_town_289,San José Ojetenán,1224,base.state_gt_sma
+res_address_town_290,San Cristóbal Cucho,1225,base.state_gt_sma
+res_address_town_291,Sipacapa,1226,base.state_gt_sma
+res_address_town_292,Esquipulas Palo Gordo,1227,base.state_gt_sma
+res_address_town_293,Río Blanco,1228,base.state_gt_sma
+res_address_town_294,San Lorenzo,1229,base.state_gt_sma
+res_address_town_295,La Blanca,1230,base.state_gt_sma
+res_address_town_296,Huehuetenango,1301,base.state_gt_hue
+res_address_town_297,Chiantla,1302,base.state_gt_hue
+res_address_town_298,Malacatancito,1303,base.state_gt_hue
+res_address_town_299,Cuilco,1304,base.state_gt_hue
+res_address_town_300,Nentón,1305,base.state_gt_hue
+res_address_town_301,San Pedro Necta,1306,base.state_gt_hue
+res_address_town_302,Jacaltenango,1307,base.state_gt_hue
+res_address_town_303,Soloma,1308,base.state_gt_hue
+res_address_town_304,Ixtahuacán,1309,base.state_gt_hue
+res_address_town_305,Santa Bárbara,1310,base.state_gt_hue
+res_address_town_306,La Libertad,1311,base.state_gt_hue
+res_address_town_307,La Democracia,1312,base.state_gt_hue
+res_address_town_308,San Miguel Acatán,1313,base.state_gt_hue
+res_address_town_309,San Rafael la Independencia,1314,base.state_gt_hue
+res_address_town_310,Todos Santos Cuchumatán,1315,base.state_gt_hue
+res_address_town_311,San Juan Atitán,1316,base.state_gt_hue
+res_address_town_312,Santa Eulalia,1317,base.state_gt_hue
+res_address_town_313,San Mateo Ixtatán,1318,base.state_gt_hue
+res_address_town_314,Colotenango,1319,base.state_gt_hue
+res_address_town_315,San Sebastián Huehuetenango,1320,base.state_gt_hue
+res_address_town_316,Tectitán,1321,base.state_gt_hue
+res_address_town_317,Concepción Huista,1322,base.state_gt_hue
+res_address_town_318,San Juan Ixcoy,1323,base.state_gt_hue
+res_address_town_319,San Antonio Huista,1324,base.state_gt_hue
+res_address_town_320,San Sebastián Coatán,1325,base.state_gt_hue
+res_address_town_321,Barillas,1326,base.state_gt_hue
+res_address_town_322,Aguacatán,1327,base.state_gt_hue
+res_address_town_323,San Rafael Petzal,1328,base.state_gt_hue
+res_address_town_324,San Gaspar Ixchil,1329,base.state_gt_hue
+res_address_town_325,Santiago Chimaltenango,1330,base.state_gt_hue
+res_address_town_326,Santa Ana Huista,1331,base.state_gt_hue
+res_address_town_327,Unión Cantinil,1332,base.state_gt_hue
+res_address_town_328,Santa Cruz del Quiché,1401,base.state_gt_qui
+res_address_town_329,Chiché,1402,base.state_gt_qui
+res_address_town_330,Chinique,1403,base.state_gt_qui
+res_address_town_331,Zacualpa,1404,base.state_gt_qui
+res_address_town_332,Chajul,1405,base.state_gt_qui
+res_address_town_333,Chichicastenango,1406,base.state_gt_qui
+res_address_town_334,Patzité,1407,base.state_gt_qui
+res_address_town_335,San Antonio Ilotenango,1408,base.state_gt_qui
+res_address_town_336,San Pedro Jocopilas,1409,base.state_gt_qui
+res_address_town_337,Cunén,1410,base.state_gt_qui
+res_address_town_338,San Juan Cotzal,1411,base.state_gt_qui
+res_address_town_339,Joyabaj,1412,base.state_gt_qui
+res_address_town_340,Nebaj,1413,base.state_gt_qui
+res_address_town_341,San Andrés Sajcabajá,1414,base.state_gt_qui
+res_address_town_342,Uspantán,1415,base.state_gt_qui
+res_address_town_343,Sacapulas,1416,base.state_gt_qui
+res_address_town_344,San Bartolomé Jocotenango,1417,base.state_gt_qui
+res_address_town_345,Canillá,1418,base.state_gt_qui
+res_address_town_346,Chicamán,1419,base.state_gt_qui
+res_address_town_347,Ixcán,1420,base.state_gt_qui
+res_address_town_348,Pachalum,1421,base.state_gt_qui
+res_address_town_349,Salamá,1501,base.state_gt_bve
+res_address_town_350,San Miguel Chicaj,1502,base.state_gt_bve
+res_address_town_351,Rabinal,1503,base.state_gt_bve
+res_address_town_352,Cubulco,1504,base.state_gt_bve
+res_address_town_353,Granados,1505,base.state_gt_bve
+res_address_town_354,El Chol,1506,base.state_gt_bve
+res_address_town_355,San Jerónimo,1507,base.state_gt_bve
+res_address_town_356,Purulhá,1508,base.state_gt_bve
+res_address_town_357,Cobán,1601,base.state_gt_ave
+res_address_town_358,Santa Cruz Verapaz,1602,base.state_gt_ave
+res_address_town_359,San Cristóbal Verapaz,1603,base.state_gt_ave
+res_address_town_360,Tactic,1604,base.state_gt_ave
+res_address_town_361,Tamahú,1605,base.state_gt_ave
+res_address_town_362,Tucurú,1606,base.state_gt_ave
+res_address_town_363,Panzós,1607,base.state_gt_ave
+res_address_town_364,Senahú,1608,base.state_gt_ave
+res_address_town_365,San Pedro Carchá,1609,base.state_gt_ave
+res_address_town_366,San Juan Chamelco,1610,base.state_gt_ave
+res_address_town_367,Lanquín,1611,base.state_gt_ave
+res_address_town_368,Cahabón,1612,base.state_gt_ave
+res_address_town_369,Chisec,1613,base.state_gt_ave
+res_address_town_370,Chahal,1614,base.state_gt_ave
+res_address_town_371,Fray Bartolomé de las Casas,1615,base.state_gt_ave
+res_address_town_372,Santa Catalina la Tinta,1616,base.state_gt_ave
+res_address_town_373,Raxruhá,1617,base.state_gt_ave
+res_address_town_374,Flores,1701,base.state_gt_pet
+res_address_town_375,San José,1702,base.state_gt_pet
+res_address_town_376,San Benito,1703,base.state_gt_pet
+res_address_town_377,San Andrés,1704,base.state_gt_pet
+res_address_town_378,La Libertad,1705,base.state_gt_pet
+res_address_town_379,San Francisco,1706,base.state_gt_pet
+res_address_town_380,Santa Ana,1707,base.state_gt_pet
+res_address_town_381,Dolores,1708,base.state_gt_pet
+res_address_town_382,San Luis,1709,base.state_gt_pet
+res_address_town_383,Sayaxché,1710,base.state_gt_pet
+res_address_town_384,Melchor de Mencos,1711,base.state_gt_pet
+res_address_town_385,Poptún,1712,base.state_gt_pet
+res_address_town_386,Las Cruces,1713,base.state_gt_pet
+res_address_town_387,El Chal,1714,base.state_gt_pet
+res_address_town_388,Puerto Barrios,1801,base.state_gt_iza
+res_address_town_389,Livingston,1802,base.state_gt_iza
+res_address_town_390,El Estor,1803,base.state_gt_iza
+res_address_town_391,Morales,1804,base.state_gt_iza
+res_address_town_392,Los Amates,1805,base.state_gt_iza
+res_address_town_393,Zacapa,1901,base.state_gt_zac
+res_address_town_394,Estanzuela,1902,base.state_gt_zac
+res_address_town_395,Río Hondo,1903,base.state_gt_zac
+res_address_town_396,Gualán,1904,base.state_gt_zac
+res_address_town_397,Teculután,1905,base.state_gt_zac
+res_address_town_398,Usumatlán,1906,base.state_gt_zac
+res_address_town_399,Cabañas,1907,base.state_gt_zac
+res_address_town_400,San Diego,1908,base.state_gt_zac
+res_address_town_401,La Unión,1909,base.state_gt_zac
+res_address_town_402,Huité,1910,base.state_gt_zac
+res_address_town_403,San Jorge,1911,base.state_gt_zac
+res_address_town_404,Chiquimula,2001,base.state_gt_cqm
+res_address_town_405,San José La Arada,2002,base.state_gt_cqm
+res_address_town_406,San Juan Ermita,2003,base.state_gt_cqm
+res_address_town_407,Jocotán,2004,base.state_gt_cqm
+res_address_town_408,Camotán,2005,base.state_gt_cqm
+res_address_town_409,Olopa,2006,base.state_gt_cqm
+res_address_town_410,Esquipulas,2007,base.state_gt_cqm
+res_address_town_411,Concepción Las Minas,2008,base.state_gt_cqm
+res_address_town_412,Quetzaltepeque,2009,base.state_gt_cqm
+res_address_town_413,San Jacinto,2010,base.state_gt_cqm
+res_address_town_414,Ipala,2011,base.state_gt_cqm
+res_address_town_415,Jalapa,2101,base.state_gt_jal
+res_address_town_416,San Pedro Pinula,2102,base.state_gt_jal
+res_address_town_417,San Luis Jilotepeque,2103,base.state_gt_jal
+res_address_town_418,San Manuel Chaparrón,2104,base.state_gt_jal
+res_address_town_419,San Carlos Alzatate,2105,base.state_gt_jal
+res_address_town_420,Monjas,2106,base.state_gt_jal
+res_address_town_421,Mataquescuintla,2107,base.state_gt_jal
+res_address_town_422,Jutiapa,2201,base.state_gt_jut
+res_address_town_423,El Progreso,2202,base.state_gt_jut
+res_address_town_424,Santa Catarina Mita,2203,base.state_gt_jut
+res_address_town_425,Agua Blanca,2204,base.state_gt_jut
+res_address_town_426,Asunción Mita,2205,base.state_gt_jut
+res_address_town_427,Yupiltepeque,2206,base.state_gt_jut
+res_address_town_428,Atescatempa,2207,base.state_gt_jut
+res_address_town_429,Jerez,2208,base.state_gt_jut
+res_address_town_430,El Adelanto,2209,base.state_gt_jut
+res_address_town_431,Zapotitlán,2210,base.state_gt_jut
+res_address_town_432,Comapa,2211,base.state_gt_jut
+res_address_town_433,Jalpatagua,2212,base.state_gt_jut
+res_address_town_434,Conguaco,2213,base.state_gt_jut
+res_address_town_435,Moyuta,2214,base.state_gt_jut
+res_address_town_436,Pasaco,2215,base.state_gt_jut
+res_address_town_437,San José Acatempa,2216,base.state_gt_jut
+res_address_town_438,Quesada,2217,base.state_gt_jut
